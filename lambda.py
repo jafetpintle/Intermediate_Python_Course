@@ -1,4 +1,3 @@
-
 """
 En Python, una funcion lambda es una funcion anonima que carece de nombre.
 """
